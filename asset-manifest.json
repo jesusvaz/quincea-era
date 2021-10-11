@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quincea-era/static/css/main.53f04185.chunk.css",
+    "main.js": "/quincea-era/static/js/main.a26f62eb.chunk.js",
+    "main.js.map": "/quincea-era/static/js/main.a26f62eb.chunk.js.map",
+    "runtime-main.js": "/quincea-era/static/js/runtime-main.1e17ff49.js",
+    "runtime-main.js.map": "/quincea-era/static/js/runtime-main.1e17ff49.js.map",
+    "static/js/2.46e1cc4f.chunk.js": "/quincea-era/static/js/2.46e1cc4f.chunk.js",
+    "static/js/2.46e1cc4f.chunk.js.map": "/quincea-era/static/js/2.46e1cc4f.chunk.js.map",
+    "static/js/3.3df48e8d.chunk.js": "/quincea-era/static/js/3.3df48e8d.chunk.js",
+    "static/js/3.3df48e8d.chunk.js.map": "/quincea-era/static/js/3.3df48e8d.chunk.js.map",
+    "index.html": "/quincea-era/index.html",
+    "static/css/main.53f04185.chunk.css.map": "/quincea-era/static/css/main.53f04185.chunk.css.map",
+    "static/js/2.46e1cc4f.chunk.js.LICENSE.txt": "/quincea-era/static/js/2.46e1cc4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e17ff49.js",
+    "static/js/2.46e1cc4f.chunk.js",
+    "static/css/main.53f04185.chunk.css",
+    "static/js/main.a26f62eb.chunk.js"
+  ]
+}
